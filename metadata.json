@@ -1,0 +1,6 @@
+{
+  "name": "Lopブラウザ",
+  "description": "高速・多機能なモダンAndroidウェブブラウザ。タブ管理、ブックマーク、閲覧履歴、プライベートモード、ページ内検索、リーダーモードに対応。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
